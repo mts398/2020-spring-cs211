@@ -1,0 +1,24 @@
+Milestone #1 - Design Diary
+
+	A struggle I had with this programming assignment was finding the time to sit down and work on it 
+a significant time before the deadline. Additional struggles include feeling unsure of whether or
+not it was okay that my game looked different in terms of sizing. After talking to a few classmates,
+I learned that they just adjusted the scale to their specific screen. A specific examples of this
+was when I started the project and had a different canvas size than the tutorial. I tried matching
+the tutorial's canvas settings but couldn't change the default setting of my canvas. When I tried
+unchecking the box next to the Canvas tab, I was able to adjust the size the canvas, but it reverted
+back to the default when I rechecked the box. My changes weren't saved. After struggling with that a bit,
+I stuck with the default and continued the tutorial.
+	Although following a tutorial seems straightforward, it'll be good for me to remember that it's 
+important to not only follow each step and understand why that step was made, but to learn how to adjust 
+details to suit my specific needs as well. I encountered multiple bugs because I forgot to drag some assets
+or declare things. A factor that contributed to having bugs in my case, was trying to rush the material 
+before the deadline. I wanted to finish as quickly as possible in the small time I gave myself and 
+missed details of the tutorials. This is something I should fix and improve because I'm new to Unity and
+giving myself ample time to finish the milestone will help me make less mistakes and remember how to do
+things in Unity better. Building a stronger foundation in these beginning stages will make building on
+these basic concepts easier to do for future projects.
+	To ease completing milestones in the future, I want to plan out chunks of time throughout the week
+(ideally every day) to work on each project. I could work on a good chunk of the project with tutorials,
+stop if I feel frustrated or got stuck, ask for help, and have enough time to fine tune parts of my project
+because I would have finished early.
